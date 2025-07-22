@@ -1,0 +1,7 @@
+This folder will contain blog images:
+- html-basics.jpg
+- css-flexbox.jpg
+- js-arrays.jpg
+- git-workflow.jpg
+
+Replace this file with actual images.
